@@ -1,1 +1,1 @@
-http://legacyrp.online/test/updates.php
+http://91.134.155.158/updatesPanel/updates.php
